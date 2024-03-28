@@ -1,2 +1,2 @@
-"hola mundo en git bash"
+"hola aguacate"
 estoy aprendiendo git bash 
