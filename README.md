@@ -1,2 +1,2 @@
 eliminar este repositorio esta vacio!!!
-solo tiene 
+solo tiene un archivo txt
